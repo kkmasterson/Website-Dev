@@ -1,0 +1,59 @@
+/*style for body element*/
+body {
+    background-color: #ffffff; 
+    color: #666666; 
+    font-family: Verdana, Arial, sans-serif;
+}
+
+/* Style for header*/
+header {
+    background-color: #002171; 
+    color: #ffffff; 
+    font-family: Georgia, serif;
+}
+
+/* Style for h1 element*/
+h1 {
+    line-height: 200%;
+}
+
+/* Style for nav element*/
+nav {
+    font-weight: bold;
+    background-color: skyblue; 
+}
+
+/* Style for h2 element*/
+h2 {
+    color: #1976d2; 
+    font-family: Georgia, serif;
+}
+
+/* Style for dt element*/
+dt {
+    color: darkblue; 
+    font-weight: bold;
+}
+
+/* Style for highlight element*/
+.highlight {
+    color: mediumblue; 
+    font-size: 1.2em;
+}
+
+/* Style for footer element*/
+footer {
+    font-size: 0.8em; 
+    font-style: italic;
+    text-align: center;
+}
+
+
+/*Style for wrapper element*/
+#wrapper{
+
+    width: 80%;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 20px;
+}
